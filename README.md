@@ -1,5 +1,14 @@
 ## Hi there 👋, I´m Matilda!
 
+---
+
+# A passionate Fullstack Opensource | Webdeveloper (Student) living in Sweden!
+
+--
+
+Lets Connect 🤝:
+
+
 <!--
 **MatildaAK/MatildaAK** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
