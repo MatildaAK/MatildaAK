@@ -3,13 +3,11 @@
 <img align="right" alt="Coding" width="300"
 src="https://res.cloudinary.com/practicaldev/image/fetch/s--2bZIjPGC--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_66%2Cw_880/https://dev-to-uploads.s3.amazonaws.com/i/d4tvukbt5mra37cvwklk.gif">
 
-- 🔭 I’m currently working on [M&J´s FlowerPot](https://mjsflowerpot.netlify.app/) (Business idea) 
+- 🌱 I’m currently learning **Elixir and Phoenix**
 
-- 🌱 I’m currently learning **React JS**
+- ☔ Latest Project [Adventure Buddies](https://github.com/chas-academy/u08-business-idea-adventurebuddies) | [Weather App](https://github.com/MatildaAK/weather) | [M&J´s FlowerPot](https://mjsflowerpot.netlify.app/) (Business idea) 
 
-- ☔ Latest Project [Adventure Buddies](https://github.com/chas-academy/u08-business-idea-adventurebuddies) | [Weather App](https://github.com/MatildaAK/weather)
-
-- 💬 Ask me about **Laravel, PHP, HTML, CSS, Sass, CRUD, Angular, Advanced JS, jQuery, TypeScript,Git and Github!**
+- 💬 Ask me about **Laravel, PHP, HTML, CSS, Sass, CRUD, Angular, React, Advanced JS, jQuery, TypeScript, Git and Github!**
 
 📫 How to reach me matilda.kallstrom@hotmail.se
 
