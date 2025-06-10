@@ -7,7 +7,7 @@ src="https://res.cloudinary.com/practicaldev/image/fetch/s--2bZIjPGC--/c_limit%2
 
 - ☔ Latest Project [Adventure Buddies](https://github.com/chas-academy/u08-business-idea-adventurebuddies) | [Weather App](https://github.com/MatildaAK/weather) | [M&J´s FlowerPot](https://mjsflowerpot.netlify.app/) (Business idea) 
 
-- 💬 Ask me about **Laravel, PHP, HTML, CSS, Sass, CRUD, Angular, React, Advanced JS, jQuery, TypeScript, Git and Github!**
+- 💬 Ask me about **Elixir, Phoenix LiveView, PHP, HTML, CSS, Sass, CRUD, Angular, React, JavaScript, TypeScript, Git and Github!**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
