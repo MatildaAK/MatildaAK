@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Matilda</h1>
-<h3 align="center">A passionate Fullstack Opensource | Webdeveloper (Student) living in Sweden!</h3>
+<h3 align="center">A passionate Fullstack Opensource | Webdeveloper living in Sweden!</h3>
 <img align="right" alt="Coding" width="300"
 src="https://res.cloudinary.com/practicaldev/image/fetch/s--2bZIjPGC--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_66%2Cw_880/https://dev-to-uploads.s3.amazonaws.com/i/d4tvukbt5mra37cvwklk.gif">
 
@@ -8,10 +8,6 @@ src="https://res.cloudinary.com/practicaldev/image/fetch/s--2bZIjPGC--/c_limit%2
 - ☔ Latest Project [Adventure Buddies](https://github.com/chas-academy/u08-business-idea-adventurebuddies) | [Weather App](https://github.com/MatildaAK/weather) | [M&J´s FlowerPot](https://mjsflowerpot.netlify.app/) (Business idea) 
 
 - 💬 Ask me about **Laravel, PHP, HTML, CSS, Sass, CRUD, Angular, React, Advanced JS, jQuery, TypeScript, Git and Github!**
-
-📫 How to reach me matilda.kallstrom@hotmail.se
-
-
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
